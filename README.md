@@ -28,5 +28,6 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/jacket-sale-website.git
-   cd jacket-sale-website
+   git clone https://github.com/Banti9/JacketSale-ecommerce-website/edit/
+   
+   cd JacketSale-ecommerce-website
